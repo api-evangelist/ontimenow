@@ -1,0 +1,62 @@
+{
+    "name": "Ontimenow",
+    "description": "Axosoft is Scrum software for development teams. Get started doing Scrum, kanban or a hybrid with our agile project management software.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1455-ontimenow.jpg",
+    "tags": [
+        "have api",
+        "organizations",
+        "projects",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ontimenow\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ontimenow",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1455-ontimenow.jpg",
+            "humanURL": "http:\/\/developer.ontimenow.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ontimenow-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ontimenow-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.ontimenow.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/axosoft"
+        },
+        {
+            "type": "Email",
+            "url": "sales@axosoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "team@axosoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "success@axosoft.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/axosoft"
+        }
+    ]
+}
